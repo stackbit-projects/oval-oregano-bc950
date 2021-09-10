@@ -7,7 +7,7 @@ image: >-
   https://media-exp1.licdn.com/dms/image/C4D03AQEg5pplrkIolQ/profile-displayphoto-shrink_800_800/0/1623961610299?e=1636588800&v=beta&t=0oKH73HzU6m1jldKuSumE6FfgPwmhd3HtMG7WvQznqQ
 excerpt_separator: <!-- more -->
 markdown: kramdown
-gems:
+gems: 
   - jekyll-paginate
 exclude:
   - .jekyll-metadata
