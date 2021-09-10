@@ -24,3 +24,4 @@ models:
       - type: string
         name: layout
         label: Layout
+    folder: _posts
