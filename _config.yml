@@ -8,7 +8,6 @@ image: >-
 excerpt_separator: <!-- more -->
 markdown: kramdown
 gems: [jekyll-paginate]
-  - jekyll-paginate
 exclude:
   - .jekyll-metadata
   - README.md
