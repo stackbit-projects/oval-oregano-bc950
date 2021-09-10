@@ -9,9 +9,6 @@ models:
   post:
     type: page
     label: Post
-    folder: _posts
-    match:
-      - '*'
     fields:
       - type: string
         name: title
